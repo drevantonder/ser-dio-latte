@@ -1,0 +1,20 @@
+{
+  "name": "ser-dio-latte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.12.2",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^5.1.1"
+  }
+}
